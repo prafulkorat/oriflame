@@ -1,0 +1,2 @@
+/Users/paragkorat/Downloads/utsv/Oriflame/android/app/.cxx/Debug/37434r6l/x86/CMakeFiles/edit_cache.dir
+/Users/paragkorat/Downloads/utsv/Oriflame/android/app/.cxx/Debug/37434r6l/x86/CMakeFiles/rebuild_cache.dir
