@@ -72,18 +72,3 @@ Ensure you have the following installed:
     - If using an emulator, ensure it is running.
     - If using a physical device, enable USB debugging.
 
----
-
-## 📦 Dependencies Used
-- `get`: For state management
-- `flutter_svg`: For handling SVG images
-- `google_fonts`: For custom fonts
-
----
-
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-### 🚀 Happy Coding! 🎯
